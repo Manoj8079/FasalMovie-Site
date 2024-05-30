@@ -9,7 +9,7 @@
 
 
 
-# 🍿 Technology
+# Technology
 
 FasalMovie Site is built using the following technologies:
 
@@ -63,5 +63,5 @@ Note: Ensure that you have carefully added the TMDB API key and Firebase authent
 
 #  Demo 
 
-- Check out our live demo at 
+- Check out our live demo at https://66589d74cf4d1932a763eeea--glowing-melomakarona-691fd7.netlify.app/
 
